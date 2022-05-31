@@ -1,5 +1,7 @@
 # synful
 
+![SYN](https://raw.githubusercontent.com/troublemaker/synful/main/synful.gif)
+
 Usage:
 
 sudo ./synful -i=en0 -dst=192.168.100.101 -dstport=81
